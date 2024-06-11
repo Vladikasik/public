@@ -1,0 +1,15 @@
+{
+    "name": "NFT #78",
+    "description": "the first nft of legendary cybercobra_collection",
+    "image": "https://raw.githubusercontent.com/Vladikasik/public/main/cybercobra_collection/src/main.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "83"
+        },
+        {
+            "trait_type": "Body",
+            "value": "94"
+        }
+    ]
+}
